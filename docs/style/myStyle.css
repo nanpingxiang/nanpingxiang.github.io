@@ -8,3 +8,9 @@
     border-radius: 10px;
     background-color: rgb(66, 185, 131);
 }
+
+:root {
+    --base-font-size: 14px;
+    --theme-hue: 325;
+    --sidebar-nav-link-before-content: '😀';
+}
